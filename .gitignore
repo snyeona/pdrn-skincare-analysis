@@ -1,0 +1,22 @@
+# 수집 데이터 (약관상 재배포하지 않음)
+data/
+*.csv
+*.xlsx
+
+# 수집 스크립트
+crawl_*.js
+crawl_*.py
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
